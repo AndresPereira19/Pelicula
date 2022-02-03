@@ -1,11 +1,6 @@
 [Práctica HTML y CSS](https://www.google.com/search?client=firefox-b-d&q=vigo)
+[Versión simple]
 
-Práctica HTML y CSS
+[version]
 
-Práctica HTML y CSS
-
-Práctica HTML y CSS
-
-Práctica HTML y CSS
-
-Práctica HTML y CSS
+[version]
